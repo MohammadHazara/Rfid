@@ -33,3 +33,5 @@ node_modules/
 # Ignore other temporary files
 *.swp
 *.swo
+
+.DS_Store

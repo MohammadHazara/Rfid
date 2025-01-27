@@ -1,0 +1,35 @@
+# Ignore .NET build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore test results
+*.trx
+*.testresults
+
+# Ignore build logs
+*.log
+
+# Ignore packages folder (if using NuGet)
+packages/
+
+# Ignore Visual Studio for Mac specific files
+.vscode/
+
+# Ignore Rider-specific files (JetBrains)
+.idea/
+
+# Ignore ASP.NET temporary files
+$Tye/
+
+# Ignore npm or other package managers
+node_modules/
+
+# Ignore other temporary files
+*.swp
+*.swo
